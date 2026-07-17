@@ -39,6 +39,13 @@ source .venv/bin/activate  # Windows: .venv\\Scripts\\activate
 pip install -r requirements.txt
 ```
 
+
+## 🎨 Frontend Design Highlights
+- Glassmorphism-style dark hero section with technology chips.
+- Sidebar-first control panel for environmental variables.
+- Two-panel main layout: drone detection workspace + wildfire risk intelligence cards.
+- Built-in synthetic aerial preview so UI can be showcased even before uploading data.
+
 ## ▶️ Run
 ### 1) Train fire risk model + generate sample dataset
 ```bash
